@@ -12,4 +12,4 @@ FINAL PROJECT:
 5. The two spheres are animated using rotation matrix.
 
 -Vaibhavi Awghate
-(vna4493@rit.edu)
+(awghatevaibhavi@gmail.com)
